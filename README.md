@@ -1,4 +1,5 @@
 # Clippd-project
+
 This one holds your project deliverables
 
 **Vision Statement**\
@@ -9,8 +10,13 @@ Current options for finding hairstylists all have noticeable gaps. Yelp and Goog
 Our app is stylist-centric rather than salon-centric, combining tagged portfolios, verified reviews from real bookings, and built-in scheduling. This gives customers confidence in choosing the right stylist while giving professionals a platform to showcase their unique skills—something existing review sites and booking apps don’t fully deliver.
 
 ## Team members
-* EunHyuk Doo
-* Isaac Hur
-* Kwesi Mireku
-* Swayam Shrestha
-* Ted Turnage
+
+- EunHyuk Doo
+- Isaac Hur
+- Kwesi Mireku
+- Swayam Shrestha
+- Ted Turnage
+
+## Clippd-service: https://github.com/calvin-cs262-2025fall-teamA/Clippd-service
+
+## Clippd-client: https://github.com/calvin-cs262-2025fall-teamA/Clippd-client
