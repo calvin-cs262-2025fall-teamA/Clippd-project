@@ -1,5 +1,7 @@
 # Clippd-project
 
+This one holds your project deliverables
+
 **Vision Statement**\
 For anyone who’s ever walked out of a salon with a haircut they didn’t want, our app makes finding the right stylist simple. Instead of just listing salons, it puts the spotlight on individual stylists. Each stylist can customize their own profiles to highlight their specialties and before-and-after photos, and receive verified reviews from customers who have received their service. This way, customers know exactly who can deliver the style they’re looking for, and go from browsing to booking in just a few taps. In short, it’s about helping customers leave the chair feeling confident, and helping stylists grow their craft and reputation.
 
@@ -8,8 +10,13 @@ Current options for finding hairstylists all have noticeable gaps. Google Review
 Our app is stylist-centric rather than salon-centric. This gives customers confidence in choosing the right stylist while giving professionals a platform to showcase their unique skills, which is something existing review sites and booking apps don’t fully deliver.
 
 ## Team members
-* EunHyuk Doo
-* Isaac Hur
-* Kwesi Mireku
-* Swayam Shrestha
-* Ted Turnage
+
+- EunHyuk Doo
+- Isaac Hur
+- Kwesi Mireku
+- Swayam Shrestha
+- Ted Turnage
+
+## Clippd-service: https://github.com/calvin-cs262-2025fall-teamA/Clippd-service
+
+## Clippd-client: https://github.com/calvin-cs262-2025fall-teamA/Clippd-client
