@@ -17,6 +17,6 @@ Our app is stylist-centric rather than salon-centric. This gives customers confi
 - Swayam Shrestha
 - Ted Turnage
 
-## Clippd-service: https://github.com/calvin-cs262-2025fall-teamA/Clippd-service
+### Clippd-service: https://github.com/calvin-cs262-2025fall-teamA/Clippd-service
 
-## Clippd-client: https://github.com/calvin-cs262-2025fall-teamA/Clippd-client
+### Clippd-client: https://github.com/calvin-cs262-2025fall-teamA/Clippd-client
