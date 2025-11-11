@@ -17,8 +17,10 @@ Our app is stylist-centric rather than salon-centric. This gives customers confi
 - Swayam Shrestha
 - Ted Turnage
 
-## [Domain Model](https://github.com/calvin-cs262-2025fall-teamA/Clippd-project/blob/main/images/ClippdApp_DomainModel.png)
-## [UI Model](https://github.com/calvin-cs262-2025fall-teamA/Clippd-project/blob/main/images/ClippdApp_UI_diagram.png)
+## Deliverables
+- [Domain Model](https://github.com/calvin-cs262-2025fall-teamA/Clippd-project/blob/main/images/ClippdApp_DomainModel.png)
+- [UI Model](https://github.com/calvin-cs262-2025fall-teamA/Clippd-project/blob/main/images/ClippdApp_UI_diagram.png)
 
-## [Clippd-client](https://github.com/calvin-cs262-2025fall-teamA/Clippd-client)
-## [Clippd-service](https://github.com/calvin-cs262-2025fall-teamA/Clippd-service)
+## Other repos
+- [Clippd-client](https://github.com/calvin-cs262-2025fall-teamA/Clippd-client)
+- [Clippd-service](https://github.com/calvin-cs262-2025fall-teamA/Clippd-service)
