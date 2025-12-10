@@ -22,6 +22,7 @@ Our app is stylist-centric rather than salon-centric. This gives customers confi
 
 # Usability Testing Documents
 - [Test Script](https://github.com/calvin-cs262-2025fall-teamA/Clippd-project/blob/main/documents/Clippd%20-%20Usability%20Test%20Script.pdf)
+- [Test Report](https://github.com/calvin-cs262-2025fall-teamA/Clippd-project/blob/swayamREADME/documents/Clippd%20-%20Usability%20Test%20Report.pdf)
 
 # Client and Service Repositories
 - [Clippd-client](https://github.com/calvin-cs262-2025fall-teamA/Clippd-client)
