@@ -19,6 +19,7 @@ Our app is stylist-centric rather than salon-centric. This gives customers confi
 
 # Presentations
 - [Midterm Presentation](https://docs.google.com/presentation/d/1FrCriAG10_jWH-LUJVEQvq9ePuN0PMr3kvhaKcXBBUs/edit?usp=sharing)
+- [Final Presentation](https://github.com/calvin-cs262-2025fall-teamA/Clippd-project/blob/main/slides/Clippd%20Final%20Presentation.pptx)
 
 # Usability Testing Documents
 - [Test Script](https://github.com/calvin-cs262-2025fall-teamA/Clippd-project/blob/main/documents/Clippd%20-%20Usability%20Test%20Script.pdf)
